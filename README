@@ -1,5 +1,13 @@
 Aitanna Parker
-CSE 182 - UCSC
-Sp2020
 Airparke
 1483215
+
+
+
+
+Goals: 
+The fourth lab project puts the database you have created to practical use. You will implement part of an application front-end to the database. As good programming practice, your methods should catch erroneous parameters, such as a value for theMemberStatus that’s not ‘A’, ‘B’ or ‘C’ in
+getMemberStatusCount. For Lab4, if a parameter supplied to one of your methods is invalid, you should print an appropriate error message, and call System.exit(-1); In practice, application code should be more robust than that, continuing execution despite erroneous parameters. But for Lab4 we're keeping things simple and exiting, since your RunZooApplication code is supposed to be executing your methods with valid parameters.
+
+
+
